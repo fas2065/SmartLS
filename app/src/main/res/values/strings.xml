@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LightStick</string>
+    <string name="title_colorcombination_detail">Colors</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="title_activity_color">Add Color</string>
+</resources>
